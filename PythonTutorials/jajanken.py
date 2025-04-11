@@ -1,3 +1,5 @@
+# rock paper scissor game
+
 import random
 
 def get_choices():
